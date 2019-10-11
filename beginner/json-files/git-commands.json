@@ -333,5 +333,9 @@
   {
     "title": "git rev-list --count master",
     "description": "count the number of commits on a branch"
+  },
+  {
+    "title": "git commit -m "[descriptive message]",
+    "description": "This command records file snapshots permanently in version history"
   }
 ]
